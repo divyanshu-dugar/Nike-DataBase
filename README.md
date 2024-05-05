@@ -1,6 +1,6 @@
 # Nike-DataBase
 
-<h2>Tables.sql</h2>
+<h2 text-align = "center">Tables.sql</h2>
 <p>This file outlines the database structure, detailing table definitions along with constraints, references, and other specifications.</p>
 
 <h2>Data.sql</h2>
