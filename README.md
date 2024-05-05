@@ -3,7 +3,7 @@
 <h2>Tables.sql</h2>
 <p>This file outlines the database structure, detailing table definitions along with constraints, references, and other specifications.</p>
 
-<h1>Data.sql</h1>
+<h2>Data.sql</h2>
 <p>Within this file lies the data intended for insertion into the respective tables defined in "Tables.sql", populating the database with initial information.</p>
 
 <h1>Business-Report-Views.sql</h1>
