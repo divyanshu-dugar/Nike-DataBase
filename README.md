@@ -1,4 +1,4 @@
-<h1 align="center">Nike-DataBase<\h1>
+<h1 align="center">Nike-DataBase</h1>
 
 <h2>Tables.sql</h2>
 <p>This file outlines the database structure, detailing table definitions along with constraints, references, and other specifications.</p>
