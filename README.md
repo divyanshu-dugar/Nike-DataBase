@@ -7,4 +7,4 @@
 <p>Within this file lies the data intended for insertion into the respective tables defined in "Tables.sql", populating the database with initial information.</p>
 
 <h1>Business</h1>
-<p>This file contains different views for the company to extract useful information.</p>
+<p>This file presents various views tailored for the company's use, facilitating the extraction of pertinent and actionable insights from the database.</p>
